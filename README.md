@@ -1,6 +1,8 @@
 # ricx_filters
 RedM script for all PostFX
+
 Use the /filters menu to open the Filter Menu
+
 534 added PostFX to use
 
 Requiresements: https://github.com/RedEM-RP/redemrp_menu_base
